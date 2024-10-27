@@ -1,3 +1,5 @@
 streamlit 
 transformers 
 huggingface-hub
+torch  # Include this for PyTorch
+# tensorflow  # Uncomment this line if you want to use TensorFlow instead
